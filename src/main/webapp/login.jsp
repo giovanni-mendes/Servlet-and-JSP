@@ -7,8 +7,8 @@
 		<div class="row mt-3">
 			<div class="offset-3 col-md-6">
 				<div class="input-group mb-3">
-					<span class="input-group-text">Usuário:</span> <input
-						name="usuario" id="usuario" type="text" class="form-control">
+					<span class="input-group-text">Usuï¿½rio:</span> 
+					<input name="usuario" id="usuario" type="text" class="form-control">
 					<%--request pega pelo name="" --%>
 				</div>
 			</div>
